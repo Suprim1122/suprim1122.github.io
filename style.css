@@ -1,0 +1,34 @@
+/* Basic style - to all elements on the page */
+
+body {  
+    background-color:lightcyan;      
+    font-style: normal;      
+    }
+   
+h1 {
+    font-family: 'Pacifico';
+    text-shadow: 1px 1px white;
+    color: rgb(122, 121, 120);
+    }
+
+h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration:underline;
+    color: blue;
+    }
+    nav {
+    background-color: #0077b6;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}
